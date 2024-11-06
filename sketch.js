@@ -8,9 +8,6 @@ function draw() {
   rotateY(millis()/1000); // rotação da terra
   texture(terra); //textura da terra, imagem.
   sphere(80, 100); //esfera 3D
-  .img-container {
-        text-align: center;
-      }
   
   
 }
